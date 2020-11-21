@@ -15,4 +15,4 @@ Note Taking Web App (Events Dashboard).
 .env file contains only 1 Instruction, mentioned below, which was to stop any Error while starting the Web App.
 ### SKIP_PREFLIGHT_CHECK=true
 
-(Not Uploading the .env file here, in case of problem, please refer to the above mentioned point)
+(Not Uploading the .env file here. In case of problem, please refer to the above mentioned point.)
